@@ -1,3 +1,0 @@
-# Logic Gate Educational Game
-
-#### Unfinished Project...
